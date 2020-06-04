@@ -4,5 +4,5 @@ php artisan migrate:fresh
 
 #Run Seeds
 
-Php artisan db:seed
+php artisan db:seed
 
